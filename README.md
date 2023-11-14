@@ -6,4 +6,11 @@ Sender details and greeting shows in page when anyone connected to metamasks acc
 Please make sure site is connected to metamask account to see all sender details.
 Thank You!
 
+## Individual Project
+### Role:
+Blockchain Developer, Architect.
+### Responsibilities:
+Designed and implemented smart contracts on the Ethereum blockchain.
+Create UI for better user interaction.
+
 
