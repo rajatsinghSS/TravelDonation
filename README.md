@@ -1,8 +1,9 @@
-# React + Vite
+# TravelDonation
+It's a simple donation DApp where friends and family member send money using metamasks to person.
+Sender details and greeting shows in page when anyone connected to metamasks account.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Note:
+Please make sure site is connected to metamask account to see all sender details.
+Thank You!
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
